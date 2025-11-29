@@ -1,0 +1,1 @@
+A fully responsive Login Page built using HTML, CSS, and JavaScript. Designed with modern UI components, animations, and mobile-first responsiveness. Demonstrates form validation, clean layout structure, and user-friendly interface design.
